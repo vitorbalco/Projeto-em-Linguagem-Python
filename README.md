@@ -1,7 +1,7 @@
 # Projeto em Linguagem Python
 Desafio elaborado pela faculdade onde utilizava-se a linguagem Python em plataformas como: Vs Code, Pycharm, Google Colab, etc.
 
-Da minha parte foi escolhido o Pycharm, porém o uso no repositório foi Vs Code para melhor conexão com a plataforam Github.
+Da minha parte foi escolhido o Pycharm, porém o uso no repositório foi Vs Code para melhor conexão com a plataforma Github.
 
 ##
 
