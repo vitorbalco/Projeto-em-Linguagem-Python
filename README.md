@@ -1,18 +1,29 @@
-# Projeto em Linguagem Python
-Desafio elaborado pela faculdade onde utilizava-se a linguagem Python em  que poderia utilizar plataformas como: Vs Code, Pycharm, Google Colab, etc.
+# 📚 Sistema de Gerenciamento de Livraria com Python
 
-Da minha parte, foi escolhido o Pycharm, porém o uso no repositório foi Vs Code para melhor conexão com a plataforma Github.
+Este projeto foi desenvolvido como parte de um desafio acadêmico. O objetivo era criar um sistema simples para gerenciar uma livraria, com funcionalidades de armazenamento, consulta e remoção de livros.
 
-##
+---
 
-## Objetivo 
-Elaborar um serviço de livraria cujo objetivo era realizar:
+## 🧠 Funcionalidades
 
-• Armazenamento;
+- Cadastro de livros
+- Consulta de livros por ID, título, autor ou editora
+- Remoção de livros do acervo
+- Armazenamento em estrutura de dados básica
 
-• Consulta;
+---
 
-• Remoção por ID, autor, Título ou Editora.
+## 🛠️ Tecnologias utilizadas
 
-##
+- Python 3.13.3
+- [VS Code](https://code.visualstudio.com/)
+- Git e GitHub
+
+---
+
+## 🚀 Como executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/VitorBalco/sistema-livraria-python.git
 
